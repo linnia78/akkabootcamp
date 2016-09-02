@@ -1,0 +1,12 @@
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\WinTail.exe.config
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\WinTail.exe
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\WinTail.pdb
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Akka.dll
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Newtonsoft.Json.dll
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\System.Collections.Immutable.dll
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Akka.xml
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Newtonsoft.Json.xml
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\System.Collections.Immutable.xml
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.csprojResolveAssemblyReference.cache
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.exe
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.pdb

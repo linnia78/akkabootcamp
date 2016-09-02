@@ -1,0 +1,12 @@
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\Lesson1-1.exe.config
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\Lesson1-1.exe
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\Lesson1-1.pdb
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\Akka.dll
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\Newtonsoft.Json.dll
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\System.Collections.Immutable.dll
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\Akka.xml
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\Newtonsoft.Json.xml
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\bin\Debug\System.Collections.Immutable.xml
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\obj\Debug\WinTail.csprojResolveAssemblyReference.cache
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\obj\Debug\Lesson1-1.exe
+C:\My\Projects\akka\akka-bootcamp\src\Unit-1\lesson3\Completed\obj\Debug\Lesson1-1.pdb
